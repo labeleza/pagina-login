@@ -51,13 +51,13 @@ span {
 }
 
 .login_email input, .login_password input {
-    padding: 27px 30px;
+    padding: 7px 0px 5px 30px;
     width: 280px;
     height: 50px;
     outline: 0;
     border: 1px solid;
     border-radius: 10px;
-    font-size: 0.9em;
+    font-size: 1em;
     background: none;
     color: white;
 }
@@ -79,7 +79,7 @@ span {
 
 .login_submit button {
     width: 90%;
-    color: black;
+    color: #0000ffde;
     background: white;
     font-size: 1em;
     font-weight: 600;
@@ -112,7 +112,7 @@ span {
 }
 
 .footer a {
-    color: #000000ce;
+    color: #0000ff;
 }
 
 @media screen and (max-width: 1045px) {
