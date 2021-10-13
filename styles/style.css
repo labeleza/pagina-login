@@ -86,12 +86,12 @@ span {
     font-size: 1em;
     font-weight: 600;
     height: 40px;
-    border-radius: 8px;
+    border-radius: 2px;
     cursor: pointer;
 }
 
 .login_submit button:hover {
-    background: #e2d8d8;
+    background: #ffffffe5;
 }
 
 .recuperar_senha {
@@ -115,7 +115,7 @@ span {
 
 p.footer {
     padding: 0 10px;
-    text-align: center:
+    text-align: center;
 }
 
 .footer a {
