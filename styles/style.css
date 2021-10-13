@@ -38,8 +38,8 @@ main {
     display: flex;
     flex-direction: column;
     gap: 10px;
-    -webkit-column-gap: 10px;
-    -moz-column-gap: 10px;
+    -webkit-gap: 10px;
+    -moz-gap: 10px;
 }
 
 .login_email, .login_password {
@@ -111,6 +111,11 @@ span {
     z-index: 0;
     max-width: 800px;
     height: 100vh;
+}
+
+p.footer {
+    padding: 0 10px;
+    text-align: center:
 }
 
 .footer a {
