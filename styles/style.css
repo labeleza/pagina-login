@@ -10,11 +10,6 @@ a {
     font-weight: bolder;
 }
 
-a:hover {
-    color: #000000be;
-    text-decoration: underline;
-}
-
 main {
     display: flex;
 }
