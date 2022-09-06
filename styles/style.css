@@ -59,9 +59,7 @@ span {
     color: white;
 }
 
-.login_email input:focus, .login_password input:focus {
-    border: 1px solid #000000c9;
-}
+
 
 .login_email input:hover, .login_password input:hover {
     background: linear-gradient(45deg,#4452ee, #fdfcfc79);
